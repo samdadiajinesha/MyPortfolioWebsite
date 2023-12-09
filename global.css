@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --body-text: Montserrat;
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --body-text-size: 15px;
+  --font-size-6xl: 25px;
+  --h2-light-size: 40px;
+  --main-title-size: 60px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-blueviolet: #9747ff;
+  --color-lightgoldenrodyellow: #d4ffd6;
+  --color-black: #000;
+  --color-thistle: #ffd8f0;
+  --color-lightcyan: #d8faff;
+
+  /* Paddings */
+  --padding-xl: 20px;
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+  --br-sm: 14px;
+}

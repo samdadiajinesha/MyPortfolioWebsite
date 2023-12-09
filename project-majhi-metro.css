@@ -1,0 +1,465 @@
+@keyframes slide-in-bottom {
+  0% {
+    transform: translateY(200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.group-child40 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightcyan);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1559px;
+  height: 89px;
+}
+.i-was-in,
+.me-in-a5 {
+  position: absolute;
+  top: 31px;
+  left: 341px;
+  display: inline-block;
+  width: 135px;
+  height: 18px;
+}
+.i-was-in {
+  top: 34px;
+  left: 476px;
+  font-weight: 300;
+  text-align: center;
+  width: 742px;
+  height: 36px;
+}
+.group-child41 {
+  position: absolute;
+  top: 22px;
+  left: 303px;
+  width: 28px;
+  height: 33px;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 773px;
+  left: -16px;
+  width: 1559px;
+  height: 89px;
+  opacity: 0;
+}
+.ellipse-parent4.animate,
+.ellipse-parent5.animate,
+.ellipse-parent6.animate,
+.line-parent4.animate,
+.project-majhi-metro-inner1.animate,
+.rectangle-parent6.animate,
+.rectangle-parent7.animate,
+.whatsapp-image-2023-04-22-at-52.animate {
+  animation: 1s ease 0s 1 normal forwards slide-in-bottom;
+}
+.group-child42 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightgoldenrodyellow);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1543px;
+  height: 89px;
+}
+.me-in-a6,
+.one-of-my {
+  position: absolute;
+  top: 30px;
+  left: 475px;
+  display: inline-block;
+  width: 135px;
+  height: 18px;
+}
+.one-of-my {
+  top: 31px;
+  left: 627px;
+  font-weight: 300;
+  text-align: center;
+  width: 561px;
+  height: 36px;
+}
+.group-child43 {
+  position: absolute;
+  top: 21px;
+  left: 437px;
+  width: 28px;
+  height: 33px;
+}
+.rectangle-parent7 {
+  position: absolute;
+  top: 4454px;
+  left: 0;
+  width: 1543px;
+  height: 89px;
+  opacity: 0;
+}
+.group-child44 {
+  position: absolute;
+  top: 110px;
+  left: 1036.5px;
+  border-radius: 50%;
+  background-color: var(--color-thistle);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 36.7px;
+  height: 50.6px;
+  transform: rotate(26.34deg);
+  transform-origin: 0 0;
+}
+.ideation2 {
+  position: absolute;
+  top: 122px;
+  left: 1074px;
+  display: inline-block;
+  width: 105px;
+  height: 37px;
+}
+.metro-is-about {
+  margin: 0;
+}
+.i-wanted-to-container {
+  position: absolute;
+  top: 193px;
+  left: 1022px;
+  font-size: var(--body-text-size);
+  font-weight: 300;
+  text-align: left;
+  display: inline-block;
+  width: 338px;
+  height: 84px;
+}
+.blue-professional-extensive-mi {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 891px;
+  height: 501px;
+  object-fit: cover;
+}
+.ellipse-parent4 {
+  position: absolute;
+  top: 1563px;
+  left: 64px;
+  width: 1360px;
+  height: 501px;
+  opacity: 0;
+  text-align: right;
+  font-size: var(--font-size-6xl);
+}
+.project-majhi-metro-child,
+.project-majhi-metro-inner,
+.project-majhi-metro-item {
+  position: absolute;
+  top: 1446.5px;
+  left: -0.5px;
+  border-top: 1px dashed var(--color-black);
+  box-sizing: border-box;
+  width: 1531px;
+  height: 1px;
+}
+.project-majhi-metro-inner,
+.project-majhi-metro-item {
+  top: 2163.5px;
+}
+.project-majhi-metro-inner {
+  top: 3297.5px;
+}
+.whatsapp-image-2023-04-22-at-52 {
+  position: absolute;
+  top: 178px;
+  left: 494px;
+  width: 542px;
+  height: 542px;
+  object-fit: cover;
+  opacity: 0;
+}
+.group-child45 {
+  position: absolute;
+  top: 80px;
+  left: 1039.5px;
+  border-radius: 50%;
+  background-color: var(--color-lightcyan);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 36.7px;
+  height: 50.6px;
+  transform: rotate(26.34deg);
+  transform-origin: 0 0;
+}
+.final-design2 {
+  position: absolute;
+  top: 92px;
+  left: 1072px;
+  font-size: var(--font-size-6xl);
+  text-align: right;
+  display: inline-block;
+  width: 158px;
+  height: 37px;
+}
+.helping-each-other-container1,
+.i-wanted-to-container1 {
+  position: absolute;
+  top: 179px;
+  left: 844px;
+  font-weight: 300;
+  display: inline-block;
+  width: 274px;
+  height: 252px;
+}
+.i-wanted-to-container1 {
+  top: 137px;
+  left: 1134px;
+  white-space: pre-wrap;
+  width: 286px;
+}
+.whatsapp-image-2023-04-22-at-53 {
+  position: absolute;
+  top: 0;
+  left: 35px;
+  width: 640px;
+  height: 521px;
+  object-fit: cover;
+}
+.train-dimensions-01-1,
+.train-dimensions-01-2 {
+  position: absolute;
+  top: 868px;
+  left: 0;
+  width: 1392px;
+  height: 140px;
+  object-fit: cover;
+}
+.train-dimensions-01-2 {
+  top: 588px;
+  left: 24px;
+  width: 1360px;
+  height: 241px;
+}
+.ellipse-parent5 {
+  position: absolute;
+  top: 3409px;
+  left: 68px;
+  width: 1420px;
+  height: 1008px;
+  opacity: 0;
+}
+.group-child46 {
+  position: absolute;
+  top: 19px;
+  left: 0;
+  background-color: var(--color-thistle);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1559px;
+  height: 89px;
+}
+.about-majhi-metro-banner-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 705px;
+  width: 126px;
+  height: 137px;
+  object-fit: cover;
+}
+.group-child47,
+.rectangle-parent8 {
+  position: absolute;
+  top: 28px;
+  left: -16px;
+  width: 1559px;
+  height: 137px;
+}
+.group-child47 {
+  top: 71.5px;
+  left: 9.5px;
+  border-top: 1px dashed var(--color-black);
+  box-sizing: border-box;
+  width: 311px;
+  height: 1px;
+}
+.design4,
+.workflow5 {
+  position: absolute;
+  top: 2px;
+  left: 165px;
+  display: inline-block;
+  width: 207px;
+  height: 37px;
+}
+.design4 {
+  top: 0;
+  left: 0;
+  width: 144px;
+}
+.decal-design-should-container,
+.project-brief1,
+.the-theme-for2 {
+  position: absolute;
+  top: 156px;
+  left: 10px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  width: 160px;
+  height: 37px;
+}
+.decal-design-should-container,
+.the-theme-for2 {
+  top: 248px;
+  font-size: var(--body-text-size);
+  font-weight: 300;
+  text-align: left;
+  width: 266px;
+  height: 149px;
+}
+.decal-design-should-container {
+  left: 391px;
+  width: 255px;
+  height: 112px;
+}
+.group-child48 {
+  position: absolute;
+  top: 246.5px;
+  left: 327.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 115px;
+}
+.group-child49,
+.group-child50,
+.group-child51 {
+  position: absolute;
+  top: 7px;
+  left: 438.1px;
+  border-radius: 50%;
+  background-color: var(--color-lightgoldenrodyellow);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 24.9px;
+  height: 34.3px;
+  transform: rotate(26.34deg);
+  transform-origin: 0 0;
+}
+.group-child50,
+.group-child51 {
+  left: 474.7px;
+  background-color: var(--color-lightcyan);
+}
+.group-child51 {
+  left: 404.2px;
+  background-color: var(--color-thistle);
+}
+.line-parent4 {
+  position: absolute;
+  top: 987px;
+  left: 211px;
+  width: 646px;
+  height: 397px;
+  opacity: 0;
+  text-align: right;
+  font-size: var(--h2-light-size);
+}
+.group-child52 {
+  position: absolute;
+  top: 164px;
+  left: 1012.5px;
+  border-radius: 50%;
+  background-color: var(--color-lightgoldenrodyellow);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 36.7px;
+  height: 50.6px;
+  transform: rotate(26.34deg);
+  transform-origin: 0 0;
+}
+.process-work2 {
+  position: absolute;
+  top: 176px;
+  left: 1045px;
+  display: inline-block;
+  width: 178px;
+  height: 37px;
+}
+.design-2-1-1,
+.design-5-1-1 {
+  position: absolute;
+  top: 647px;
+  left: 15px;
+  width: 1360px;
+  height: 139px;
+  object-fit: cover;
+}
+.design-2-1-1 {
+  top: 839px;
+  left: 0;
+  width: 1385px;
+  height: 140px;
+}
+.whatsapp-image-2023-11-28-at-1,
+.whatsapp-image-2023-11-28-at-11 {
+  position: absolute;
+  top: 0;
+  left: 36px;
+  width: 549px;
+  height: 357px;
+  object-fit: cover;
+}
+.whatsapp-image-2023-11-28-at-11 {
+  top: 385px;
+  width: 911px;
+  height: 192px;
+}
+.secondary-research-about {
+  margin-bottom: 0;
+}
+.secondary-research-about-how-d {
+  margin: 0;
+  padding-left: var(--padding-xl);
+}
+.secondary-research-about-container {
+  position: absolute;
+  top: 253px;
+  left: 1004px;
+  font-size: var(--font-inherit);
+  font-weight: 300;
+  font-family: var(--font-inherit);
+  text-align: left;
+  display: inline-block;
+  width: 274px;
+  height: 144px;
+}
+.ellipse-parent6,
+.project-majhi-metro-inner1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1385px;
+  height: 979px;
+  opacity: 0;
+}
+.project-majhi-metro-inner1 {
+  top: 2271px;
+  left: 88px;
+  text-align: right;
+  font-size: var(--font-size-6xl);
+}
+.project-majhi-metro {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-text-size);
+  color: var(--color-black);
+  font-family: var(--body-text);
+}
