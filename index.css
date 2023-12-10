@@ -404,23 +404,17 @@
   width: 274px;
 }
 .secondary-research {
-  margin-bottom: 0;
-}
-.secondary-research-primary-res {
   margin: 0;
-  padding-left: var(--padding-xl);
 }
 .secondary-research-primary-container {
   position: absolute;
   top: 1177px;
   left: 646px;
-  font-size: var(--font-inherit);
   font-weight: 300;
-  font-family: var(--font-inherit);
   text-align: left;
   display: inline-block;
-  width: 274px;
-  height: 112px;
+  width: 211px;
+  height: 72px;
 }
 .rectangle-div {
   background-color: var(--color-thistle);

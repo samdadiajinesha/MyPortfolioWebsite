@@ -22,9 +22,6 @@ body {
   --color-thistle: #ffd8f0;
   --color-lightcyan: #d8faff;
 
-  /* Paddings */
-  --padding-xl: 20px;
-
   /* Border radiuses */
   --br-8xs: 5px;
   --br-sm: 14px;

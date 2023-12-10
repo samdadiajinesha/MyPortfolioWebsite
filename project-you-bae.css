@@ -183,24 +183,16 @@
   width: 178px;
   height: 37px;
 }
-.secondary-research1 {
-  margin-bottom: 0;
-}
-.secondary-research-primary-res1 {
-  margin: 0;
-  padding-left: var(--padding-xl);
-}
 .secondary-research-primary-container1 {
   position: absolute;
   top: 371px;
-  left: 1018px;
-  font-size: var(--font-inherit);
+  left: 1042px;
+  font-size: var(--body-text-size);
   font-weight: 300;
-  font-family: var(--font-inherit);
   text-align: left;
   display: inline-block;
-  width: 274px;
-  height: 112px;
+  width: 210px;
+  height: 72px;
 }
 .blue-professional-extensive-mi2,
 .blue-professional-extensive-mi3 {

@@ -229,7 +229,7 @@
 }
 .using-app-consciously-understa {
   margin: 0;
-  padding-left: var(--padding-xl);
+  padding-left: 20px;
 }
 .using-app-consciously-container {
   position: absolute;
@@ -375,24 +375,30 @@
   position: absolute;
   top: 61px;
   left: 1057px;
-  font-size: var(--font-size-6xl);
-  text-align: right;
   display: inline-block;
   width: 158px;
   height: 37px;
 }
-.helping-each-other-container,
-.i-wanted-to {
+.checking-prototype-to-container,
+.frames {
   position: absolute;
-  top: 148px;
-  left: 1125px;
-  font-weight: 300;
+  left: 1030px;
   display: inline-block;
-  width: 274px;
-  height: 234px;
 }
-.helping-each-other-container {
-  left: 829px;
+.frames {
+  text-decoration: none;
+  top: 210px;
+  color: inherit;
+  width: 98px;
+  height: 37px;
+}
+.checking-prototype-to-container {
+  top: 126px;
+  font-size: var(--body-text-size);
+  font-weight: 300;
+  text-align: left;
+  width: 319px;
+  height: 108px;
 }
 .clinical-documents-icon,
 .cycle-tracking-icon {
@@ -460,9 +466,11 @@
   position: absolute;
   top: 3440px;
   left: 83px;
-  width: 1399px;
+  width: 1365px;
   height: 943px;
   opacity: 0;
+  text-align: right;
+  font-size: var(--font-size-6xl);
 }
 .ellipse-parent3.animate,
 .line-parent3.animate {
@@ -608,6 +616,15 @@
   left: -16px;
   width: 1559px;
   height: 89px;
+}
+.project-figma-app-child1 {
+  position: absolute;
+  top: 3680.5px;
+  left: 1118.5px;
+  border-top: 1px dashed var(--color-black);
+  box-sizing: border-box;
+  width: 93px;
+  height: 1px;
 }
 .project-figma-app {
   position: relative;

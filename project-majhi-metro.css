@@ -123,7 +123,7 @@
   width: 105px;
   height: 37px;
 }
-.metro-is-about {
+.i-wanted-to {
   margin: 0;
 }
 .i-wanted-to-container {
@@ -205,7 +205,7 @@
   width: 158px;
   height: 37px;
 }
-.helping-each-other-container1,
+.helping-each-other-container,
 .i-wanted-to-container1 {
   position: absolute;
   top: 179px;
@@ -418,20 +418,12 @@
   width: 911px;
   height: 192px;
 }
-.secondary-research-about {
-  margin-bottom: 0;
-}
-.secondary-research-about-how-d {
-  margin: 0;
-  padding-left: var(--padding-xl);
-}
 .secondary-research-about-container {
   position: absolute;
   top: 253px;
   left: 1004px;
-  font-size: var(--font-inherit);
+  font-size: var(--body-text-size);
   font-weight: 300;
-  font-family: var(--font-inherit);
   text-align: left;
   display: inline-block;
   width: 274px;
